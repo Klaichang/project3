@@ -1,3 +1,5 @@
 cryptography==41.0.4
 pyjwt==2.8.0
 argon2-cffi==21.3.0
+pytest==<latest_version>
+pytest-flask==<latest_version>
